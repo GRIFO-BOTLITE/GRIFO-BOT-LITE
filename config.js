@@ -7,23 +7,23 @@ import { en, es, id, ar, pt } from './lib/idiomas/total-idiomas.js'
 
 //⊱ ━━━━━.⋅ Añada los numeros a ser Propietario/a | Add the numbers to be Owner ⋅.━━━━ ⊰  
 global.owner = [
-  ['573238484181', 'GRIFO-BOT2 💖🐈', true],
-  ['573208089136', 'GRIFO-BOT2 2 💖🐈', true],
-  ['447451229913', 'GRIFO-BOT2 3 💖🐈', true],
-  ['593959425714', 'GRIFO FC | 𝙀𝙍𝙍𝙊𝙍𝙀𝙎 💖🐈', true], 
-  ['5492266466080'], 
-  ['573136855110'],
-  ['50689823726'],
-  ['50495086382'],
-  ['51960086535'],
-  ['584125778026'],
-  ['584166662765'],
-  ['584163647116'],
-  ['593968585383']]
+  ['523338736122', 'GRIFO-BOT2 💖🐈', true],
+  ['523338736122', 'GRIFO-BOT2 2 💖🐈', true],
+  ['523338736122', 'GRIFO-BOT2 3 💖🐈', true],
+  ['523338736122', 'GRIFO FC | 𝙀𝙍𝙍𝙊𝙍𝙀𝙎 💖🐈', true], 
+  ['523338736122'], 
+  ['523338736122'],
+  ['523338736122'],
+  ['523338736122'],
+  ['523338736122'],
+  ['523338736122'],
+  ['523338736122'],
+  ['523338736122'],
+  ['523338736122']]
 //━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ ฅ^•ﻌ•^ฅ
 
 global.mods = [] 
-global.prems = ['528451003894'], 
+global.prems = ['523338736122'], 
   
   
 //⊱ ━━━━━.⋅ IDIOMA : LENGUAJE ⋅.━━━━ ⊰ 
@@ -196,7 +196,7 @@ global.wait = '*⌛ _Cargando | Charging..._ ▬▭▭▭▭▭▭*'
 global.waitt = '*⌛ _Cargando | Charging..._ ▬▬▭▭▭*'
 global.waittt = '*⌛ _Cargando | Charging..._ ▬▬▬▬▭▭*'
 global.waitttt = '*⌛ _Cargando | Charging..._ ▬▬▬▬▬▬▭*'
-global.nomorown = '593993684821'
+global.nomorown = '523338736122'
 global.pdoc = ['application/vnd.openxmlformats-officedocument.presentationml.presentation', 'application/vnd.openxmlformats-officedocument.spreadsheetml.sheet', 'application/vnd.openxmlformats-officedocument.wordprocessingml.document', 'application/vnd.ms-excel', 'application/msword', 'application/pdf', 'text/rtf']
 
 //━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ ฅ^•ﻌ•^ฅ
