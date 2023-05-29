@@ -7,10 +7,10 @@ import { en, es, id, ar, pt } from './lib/idiomas/total-idiomas.js'
 
 //⊱ ━━━━━.⋅ Añada los numeros a ser Propietario/a | Add the numbers to be Owner ⋅.━━━━ ⊰  
 global.owner = [
-  ['573238484181', '𝙂𝙖𝙩𝙖𝘽𝙤𝙩-𝙈𝘿 💖🐈', true],
-  ['573208089136', '𝙂𝙖𝙩𝙖𝘽𝙤𝙩-𝙈𝘿 2 💖🐈', true],
-  ['447451229913', '𝙂𝙖𝙩𝙖𝘽𝙤𝙩-𝙈𝘿 3 💖🐈', true],
-  ['593959425714', '𝘿𝙄𝙀𝙂𝙊-𝙊𝙁𝘾 | 𝙀𝙍𝙍𝙊𝙍𝙀𝙎 💖🐈', true], 
+  ['573238484181', 'GRIFO-BOT2 💖🐈', true],
+  ['573208089136', 'GRIFO-BOT2 2 💖🐈', true],
+  ['447451229913', 'GRIFO-BOT2 3 💖🐈', true],
+  ['593959425714', 'GRIFO FC | 𝙀𝙍𝙍𝙊𝙍𝙀𝙎 💖🐈', true], 
   ['5492266466080'], 
   ['573136855110'],
   ['50689823726'],
@@ -108,8 +108,8 @@ global.keysxxx = keysZens[Math.floor(keysZens.length * Math.random())]
 
 //⊱ ━━━━━.⋅ Sticker WM ⋅.━━━━ ⊰
 
-global.packname = '𝙂𝙖𝙩𝙖𝘽𝙤𝙩-𝙈𝘿 🐈'
-global.author = '𝙂𝙖𝙩𝙖 𝘿𝙞𝙤𝙨'
+global.packname = 'GRIFO-BOT 🐈'
+global.author = 'GRIFO-BOT'
 
 //━━━━━━━━━━━━━━━━━━━━ ฅ^•ﻌ•^ฅ
 
@@ -119,41 +119,41 @@ global.author = '𝙂𝙖𝙩𝙖 𝘿𝙞𝙤𝙨'
 global.vs = '1.4.0 (Navidad) 🎄'
 global.version = vs
 
-global.gt = '𝙂𝙖𝙩𝙖𝘽𝙤𝙩-𝙈𝘿'
+global.gt = 'GRIFO-BOT'
 global.gatabot = gt
 
-global.yt = 'https://youtube.com/channel/UCpNU4eY7eiI0ve05CssjdbA'
+global.yt =
 global.youtube = yt
 
-global.ig = 'https://www.instagram.com/gata_dios'
+global.ig =
 global.gatadiosig = ig
 
-global.md = 'https://github.com/GataNina-Li/GataBot-MD'
+global.md =
 global.gatabot = md
 
-global.nna = 'https://chat.whatsapp.com/Fs0id9YB4rXHBCv4c2RVIw'
-global.nnagrupo = nna //UPDATE GATABOT
-global.nna2 = 'Fs0id9YB4rXHBCv4c2RVIw'
+global.nna =
+global.nnagrupo =
+global.nna2 =
 
-global.nn = 'https://chat.whatsapp.com/Jt76tVg51bfJNLwHwtlmGU'
-global.nngrupo = nn //Grupo 1
+global.nn =
+global.nngrupo =
 
-global.nnn = 'https://chat.whatsapp.com/Dx7SpgNO13fGvgCSuLjwpP'
-global.nnngrupo = nnn //Grupo 2
+global.nnn = 
+global.nnngrupo =
 
-global.nnnt = 'https://chat.whatsapp.com/LHkRugxY5jL3mhVSZJMjIw'
-global.nnntgrupo = nnnt //Grupo 3
+global.nnnt =
+global.nnntgrupo =
 
-global.nnntt = 'https://chat.whatsapp.com/JK3ut4nDbzA5BBvMeKUb7t'
-global.nnnttgrupo = nnntt //Grupo 4
+global.nnntt =
+global.nnnttgrupo =
 
-global.nnnttt = 'https://chat.whatsapp.com/GSUnx4mUAuh0VQIem9aQDc'
-global.nnntttgrupo = nnnttt //Grupo 5
+global.nnnttt =
+global.nnntttgrupo =
 
-global.nnnttt2 = 'https://chat.whatsapp.com/DswecLCg0elE8yNEJAdGAK'
-global.nnnttt2grupo = nnnttt2 //Grupo 6
+global.nnnttt2 =
+global.nnnttt2grupo =
 
-global.paypal = 'https://paypal.me/OficialGD'
+global.paypal = https://www.paypal.me/OscarEduardoMeza
 global.donar = paypal
 
 global.asistencia = 'Wa.me/18059196237' //Dudas? escríbeme...
@@ -190,8 +190,8 @@ global.exito = eg
 
 //⊱ ━━━━━.⋅ Información | Information ⋅.━━━━ ⊰
 
-global.wm = '𝙂𝙖𝙩𝙖𝘽𝙤𝙩-𝙈𝘿 : 𝙂𝙖𝙩𝙖 𝘿𝙞𝙤𝙨'
-global.igfg = '𝙂𝙖𝙩𝙖𝘽𝙤𝙩-𝙈𝘿'
+global.wm = 'GRIFO-BOY : GRIFO-BOT'
+global.igfg = 'GRIFO-BOT'
 global.wait = '*⌛ _Cargando | Charging..._ ▬▭▭▭▭▭▭*'
 global.waitt = '*⌛ _Cargando | Charging..._ ▬▬▭▭▭*'
 global.waittt = '*⌛ _Cargando | Charging..._ ▬▬▬▬▭▭*'
